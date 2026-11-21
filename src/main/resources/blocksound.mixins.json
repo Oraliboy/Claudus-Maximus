@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "de.blocksound.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["SoundManagerMixin"],
+  "injectors": { "defaultRequire": 1 }
+}

@@ -1,0 +1,10 @@
+{
+  "key.blocksound.open": "Open Block Sound Menu",
+  "key.categories.blocksound": "Block Sound Changer",
+  "gui.blocksound.title": "Choose block sound",
+  "gui.blocksound.search": "Search block...",
+  "gui.blocksound.reset": "Reset (vanilla sounds)",
+  "gui.blocksound.done": "Done",
+  "gui.blocksound.current": "Current: %s",
+  "gui.blocksound.none": "None (vanilla)"
+}
